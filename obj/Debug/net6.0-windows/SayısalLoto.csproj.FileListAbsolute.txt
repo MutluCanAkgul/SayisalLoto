@@ -1,0 +1,16 @@
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\bin\Debug\net6.0-windows\SayısalLoto.exe
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\bin\Debug\net6.0-windows\SayısalLoto.deps.json
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\bin\Debug\net6.0-windows\SayısalLoto.runtimeconfig.json
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\bin\Debug\net6.0-windows\SayısalLoto.dll
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\bin\Debug\net6.0-windows\SayısalLoto.pdb
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\obj\Debug\net6.0-windows\SayısalLoto.Form1.resources
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\obj\Debug\net6.0-windows\SayısalLoto.csproj.GenerateResource.cache
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\obj\Debug\net6.0-windows\SayısalLoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\obj\Debug\net6.0-windows\SayısalLoto.AssemblyInfoInputs.cache
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\obj\Debug\net6.0-windows\SayısalLoto.AssemblyInfo.cs
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\obj\Debug\net6.0-windows\SayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\obj\Debug\net6.0-windows\SayısalLoto.dll
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\obj\Debug\net6.0-windows\refint\SayısalLoto.dll
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\obj\Debug\net6.0-windows\SayısalLoto.pdb
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\obj\Debug\net6.0-windows\SayısalLoto.genruntimeconfig.cache
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayısalLoto\obj\Debug\net6.0-windows\ref\SayısalLoto.dll
